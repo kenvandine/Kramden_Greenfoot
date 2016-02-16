@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SmoothMover
+comment0.text=\r\n\ A\ variation\ of\ an\ actor\ that\ maintains\ precise\ location\ (using\ doubles\ for\ the\ co-ordinates\r\n\ instead\ of\ ints).\ It\ also\ maintains\ a\ current\ movement\ in\ form\ of\ a\ movement\ vector.\r\n\ \r\n\ @author\ Poul\ Henriksen\r\n\ @author\ Michael\ Kolling\r\n\ \r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=SmoothMover()
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Move\ in\ the\ current\ movement\ direction.\r\n
+comment3.params=x\ y
+comment3.target=void\ setLocation(double,\ double)
+comment4.params=x\ y
+comment4.target=void\ setLocation(int,\ int)
+comment5.params=
+comment5.target=double\ getExactX()
+comment6.params=
+comment6.target=double\ getExactY()
+comment7.params=factor
+comment7.target=void\ accelerate(double)
+comment7.text=\r\n\ Accelerate\ the\ speed\ of\ this\ mover\ by\ the\ given\ factor.\ (Factors\ <\ 1\ will\r\n\ decelerate.)\r\n
+comment8.params=
+comment8.target=double\ getSpeed()
+comment8.text=\r\n\ Return\ the\ speed\ of\ this\ actor.\r\n
+comment9.params=
+comment9.target=void\ stop()
+comment9.text=\r\n\ Increase\ the\ speed\ with\ the\ given\ vector.\r\n
+numComments=10

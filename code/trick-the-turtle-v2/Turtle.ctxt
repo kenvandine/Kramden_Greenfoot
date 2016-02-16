@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ randomTurn()
+comment1.text=\n\ With\ a\ 10%\ probability,\ turn\ a\ bit\ right\ or\ left.\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment2.text=\n\ If\ we\ reach\ the\ edge\ of\ the\ world,\ turn\ a\ little\ bit.\n
+comment3.params=
+comment3.target=void\ tryToEatLettuce()
+comment3.text=\n\ Check\ whether\ we\ can\ see\ Lettuce.\ If\ we\ can,\ eat\ it.\n
+numComments=4
