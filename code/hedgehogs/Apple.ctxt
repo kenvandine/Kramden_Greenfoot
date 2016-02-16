@@ -1,5 +1,7 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ act()
-comment0.text=\n\ Do\ nothing.\ Just\ lie\ there.\n
-numComments=1
+comment0.target=Apple
+comment0.text=\r\n\ An\ apple.\ Hedgehogs\ like\ these.\r\n\r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Do\ nothing.\ Just\ lie\ there.\r\n
+numComments=2

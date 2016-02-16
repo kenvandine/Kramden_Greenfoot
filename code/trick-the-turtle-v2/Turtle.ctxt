@@ -1,13 +1,14 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ act()
+comment0.target=Turtle
 comment1.params=
-comment1.target=void\ randomTurn()
-comment1.text=\n\ With\ a\ 10%\ probability,\ turn\ a\ bit\ right\ or\ left.\n
+comment1.target=void\ act()
 comment2.params=
-comment2.target=void\ turnAtEdge()
-comment2.text=\n\ If\ we\ reach\ the\ edge\ of\ the\ world,\ turn\ a\ little\ bit.\n
+comment2.target=void\ randomTurn()
+comment2.text=\r\n\ With\ a\ 10%\ probability,\ turn\ a\ bit\ right\ or\ left.\r\n
 comment3.params=
-comment3.target=void\ tryToEatLettuce()
-comment3.text=\n\ Check\ whether\ we\ can\ see\ Lettuce.\ If\ we\ can,\ eat\ it.\n
-numComments=4
+comment3.target=void\ turnAtEdge()
+comment3.text=\r\n\ If\ we\ reach\ the\ edge\ of\ the\ world,\ turn\ a\ little\ bit.\r\n
+comment4.params=
+comment4.target=void\ tryToEatLettuce()
+comment4.text=\r\n\ Check\ whether\ we\ can\ see\ Lettuce.\ If\ we\ can,\ eat\ it.\r\n
+numComments=5
