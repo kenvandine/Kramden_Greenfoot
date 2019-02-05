@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
-import java.awt.Color;
-import java.awt.Font;
-import java.util.Calendar;
+//import java.awt.Color;
+//import java.awt.Font;
+//import java.util.Calendar;
 
 /**
  * The ScoreBoard is used to display results on the screen. It can display some

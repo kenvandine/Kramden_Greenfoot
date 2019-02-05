@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
-import java.awt.Color;
+//import java.awt.Color;
 
 /**
  * Space. Something for rockets to fly in.

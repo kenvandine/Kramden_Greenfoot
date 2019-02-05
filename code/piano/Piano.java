@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
-import java.awt.Color;
+//import java.awt.Color;
 
 /**
  * A piano that can be played with the computer keyboard.

@@ -1,7 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
-
-import java.awt.Color;
-import java.awt.Graphics;
+//import java.awt.Color;
+//import java.awt.Graphics;
 
 /**
  * Counter that displays a text and number.
